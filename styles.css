@@ -1,1 +1,42 @@
-/* Write your CSS here! */
+h1 {
+    text-align: center;
+}
+
+#mainHeading {
+color: red;
+}
+
+#list-color {
+color: blueviolet;
+}
+
+p {
+margin: auto;    
+}
+
+.myspace {
+ margin-bottom: 1rem;
+}
+
+div {
+border: 1px solid black;
+padding: 25px 50px 55px;
+background-color: lightblue;
+}
+
+body {
+  margin: 8px;
+  font-family: Arial;
+  display: block;
+  border: 1px solid #D6D6D6;
+  padding: 5px;
+}
+
+#testP {
+  color: green;
+}
+
+.funParagraph {
+  color: green;
+  margin-bottom: 1rem;
+}
